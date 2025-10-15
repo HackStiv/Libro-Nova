@@ -1,0 +1,11 @@
+[2025-10-14 16:27:42] INFO: Iniciando aplicación LibroNova
+[2025-10-14 16:27:56] ERROR: Error al obtener todos los libros: Access denied for user 'root'@'localhost' (using password: YES)
+[2025-10-14 16:28:07] INFO: Aplicación LibroNova finalizada
+[2025-10-14 16:28:51] INFO: Iniciando aplicación LibroNova
+[2025-10-14 16:29:01] INFO: Aplicación LibroNova finalizada
+[2025-10-14 16:43:45] INFO: Iniciando aplicación LibroNova
+[2025-10-14 16:44:42] INFO: Iniciando aplicación LibroNova
+[2025-10-14 16:45:04] ERROR: Error al buscar libros: Access denied for user 'root'@'localhost' (using password: YES)
+[2025-10-14 16:45:35] ERROR: Error al buscar libro por ISBN: Access denied for user 'root'@'localhost' (using password: YES)
+[2025-10-14 16:45:35] ERROR: Error al crear libro: Access denied for user 'root'@'localhost' (using password: YES)
+[2025-10-14 16:45:46] INFO: Aplicación LibroNova finalizada
